@@ -1,0 +1,5 @@
+2025-04-13 23:51:15.705303 - Received CBT.V508.FILE892.PDS from FILE892.XMI 
+2025-04-13 23:51:15.706329 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE892.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:51:15.706434 - Found $TERSDOC.txt (text/plain) in CBT.V508.FILE892.PDS, moved to PDS/$TERSDOC
+2025-04-13 23:51:15.706498 - Found @FILE892.txt (text/plain) in CBT.V508.FILE892.PDS, moved to PDS/@FILE892
+2025-04-13 23:51:15.716502 - Found TERSEPC.zip (application/zip) in CBT.V508.FILE892.PDS, moved to TERSEPC
